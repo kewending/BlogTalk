@@ -1,2 +1,2 @@
 # BlogTalk
-GitTalk Repository
+Utterances Repository
